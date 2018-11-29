@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.quickSuggestions": true,
+    "javascript.suggest.completeFunctionCalls": true,
+    "typescript.suggest.completeFunctionCalls": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "editor.formatOnPaste": true,
+    "editor.wordBasedSuggestions": true
+}
